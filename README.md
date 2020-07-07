@@ -9,7 +9,7 @@
 行间代码
 行间代码
 ```
-      void main()
-  {
-  printf("Hello, Markdown.");
-  }
+        void main()
+      {
+      printf("Hello, Markdown.");
+      }
